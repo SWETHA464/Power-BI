@@ -32,7 +32,7 @@ How to Get Started 🏗️
 
 Download the Power BI File: Clone the repository or download the .pbix file.
 
-git clone https://github.com/swetha464/pizza-sales-analysis.git
+git clone https://github.com/swetha464/Power-BI.git
 
 Open with Power BI Desktop: Launch the .pbix file in Microsoft Power BI Desktop.
 
